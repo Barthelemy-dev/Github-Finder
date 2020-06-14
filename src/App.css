@@ -28,6 +28,14 @@ body {
   background-color: var(--dark-light-color);
   color: var(--light-color);
 }
+.toggle-dark-button {
+  font-size: 2rem;
+  border: 2px solid gray;
+  border-radius: 30px;
+  padding: 0.3rem;
+  margin-right: 0.5rem;
+  float: right;
+}
 
 a {
   color: var(--primary-color);
